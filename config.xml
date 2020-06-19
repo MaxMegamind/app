@@ -1,15 +1,5 @@
-        My App
-    
-        My first Tabris.js app
-    
-    
-        Me
-    
-    
-    
-    
-    <!--<widget id="com.example.hello" version="0.0.1">
-        <name>HelloWorld</name>
+<widget id="com.example.hello" version="0.0.1">
+        <name>new app</name>
         <description>
             A sample Apache Cordova application that responds to the deviceready event.
         </description>
@@ -19,5 +9,3 @@
         <content src="index.html" />
         <access origin="*" />
     </widget>
-
-    -->
