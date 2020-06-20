@@ -1,1 +1,11 @@
-
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="first.app" version="1.1.1">
+  <name>NewApp</name>
+  <description>
+    first tabris app
+  </description>
+  <author email="bestskyever@gmail.com">
+    www.pdf.com.ng
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+</widget>
